@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 """
-Simple rofi script for showing all passwords in a
-pass password-store and copying it to the clipboard
+Simple rofi script for showing all entries in a
+pass password-store and copying the password to the clipboard
 """
 
 # .password-store directory
